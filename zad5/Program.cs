@@ -21,11 +21,11 @@ namespace zad5
 
             if (year > 2010 && power >= 150 && hasCheck)
             {
-                Console.WriteLine("It can participate");
+                Console.WriteLine("It can participate!!!");
             }
             else
             {
-                Console.WriteLine("It CAN'T participate");
+                Console.WriteLine("It CAN'T participate!!!");
             }
         }
     }

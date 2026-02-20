@@ -12,24 +12,25 @@ namespace zad2
         {
             Console.Write("Enter a password: ");
             string password = Console.ReadLine();
+            Console.WriteLine("=========================");
 
             bool hasUpper = false;
-            bool hasDigit = false;
+            bool hasNum = false;
             bool hasSpace = password.Contains(" ");
 
-            foreach (char el in password)
+            foreach (char element in password)
             {
-                if (char.IsUpper(el))
+                if (char.IsUpper(element))
                 {
                     hasUpper = true;
                 }
-                if (char.IsDigit(el))
+                if (char.IsDigit(element))
                 {
-                    hasDigit = true;
-                } 
+                    hasNum = true;
+                }
             }
 
-            if (password.Length >= 8 && hasUpper && hasDigit && !hasSpace)
+            if (password.Length >= 8 && hasUpper && hasNum && hasSpace == false)
             {
                 Console.WriteLine("Valid password!!!");
             }

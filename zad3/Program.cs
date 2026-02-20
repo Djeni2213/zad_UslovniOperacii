@@ -36,7 +36,7 @@ namespace zad3
             }
             else
             {
-                Console.WriteLine("Не може да се образува триъгълник");
+                Console.WriteLine("Не може да се образува триъгълник!");
             }
         }
     }

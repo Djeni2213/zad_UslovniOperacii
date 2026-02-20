@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5ABB51D6-D3A9-4F67-B9D0-042A7B61A5E2}|zad5\\zad5.csproj|d:\\school\\djeni 10a\\programirane\\zad_uslovnioperacii\\zad5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABB51D6-D3A9-4F67-B9D0-042A7B61A5E2}|zad5\\zad5.csproj|solutionrelative:zad5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7A3042A-1511-4B57-A0F3-A26CE5CB44E2}|zad1\\zad1.csproj|D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A3042A-1511-4B57-A0F3-A26CE5CB44E2}|zad1\\zad1.csproj|solutionrelative:zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3651440-8892-46F8-A015-F4FC78E67913}|zad4\\zad4.csproj|d:\\school\\djeni 10a\\programirane\\zad_uslovnioperacii\\zad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3651440-8892-46F8-A015-F4FC78E67913}|zad4\\zad4.csproj|solutionrelative:zad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{793D07CB-DD71-4002-90C8-A1DCD63DA0F5}|zad3\\zad3.csproj|d:\\school\\djeni 10a\\programirane\\zad_uslovnioperacii\\zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{793D07CB-DD71-4002-90C8-A1DCD63DA0F5}|zad3\\zad3.csproj|solutionrelative:zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E70E1730-AE54-4FCD-ADD8-64B5FD1ABB56}|zad2\\zad2.csproj|d:\\school\\djeni 10a\\programirane\\zad_uslovnioperacii\\zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E70E1730-AE54-4FCD-ADD8-64B5FD1ABB56}|zad2\\zad2.csproj|D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E70E1730-AE54-4FCD-ADD8-64B5FD1ABB56}|zad2\\zad2.csproj|solutionrelative:zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7A3042A-1511-4B57-A0F3-A26CE5CB44E2}|zad1\\zad1.csproj|d:\\school\\djeni 10a\\programirane\\zad_uslovnioperacii\\zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7A3042A-1511-4B57-A0F3-A26CE5CB44E2}|zad1\\zad1.csproj|solutionrelative:zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{793D07CB-DD71-4002-90C8-A1DCD63DA0F5}|zad3\\zad3.csproj|D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793D07CB-DD71-4002-90C8-A1DCD63DA0F5}|zad3\\zad3.csproj|solutionrelative:zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3651440-8892-46F8-A015-F4FC78E67913}|zad4\\zad4.csproj|D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\zad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3651440-8892-46F8-A015-F4FC78E67913}|zad4\\zad4.csproj|solutionrelative:zad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABB51D6-D3A9-4F67-B9D0-042A7B61A5E2}|zad5\\zad5.csproj|d:\\school\\djeni 10a\\programirane\\zad_uslovnioperacii\\zad5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABB51D6-D3A9-4F67-B9D0-042A7B61A5E2}|zad5\\zad5.csproj|solutionrelative:zad5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,30 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\zad5\\Program.cs",
               "RelativeDocumentMoniker": "zad5\\Program.cs",
               "ToolTip": "D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\zad5\\Program.cs",
               "RelativeToolTip": "zad5\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T22:07:31.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\zad4\\Program.cs",
               "RelativeDocumentMoniker": "zad4\\Program.cs",
               "ToolTip": "D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\zad4\\Program.cs",
               "RelativeToolTip": "zad4\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T21:55:55.737Z",
               "EditorCaption": ""
@@ -66,27 +66,27 @@
               "RelativeDocumentMoniker": "zad3\\Program.cs",
               "ToolTip": "D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\zad3\\Program.cs",
               "RelativeToolTip": "zad3\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T21:53:19.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\zad2\\Program.cs",
               "RelativeDocumentMoniker": "zad2\\Program.cs",
               "ToolTip": "D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\zad2\\Program.cs",
               "RelativeToolTip": "zad2\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T21:47:37.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\school\\Djeni 10a\\Programirane\\zad_UslovniOperacii\\zad1\\Program.cs",
               "RelativeDocumentMoniker": "zad1\\Program.cs",
